@@ -9,38 +9,24 @@
     },
     {
       "id": 2,
-      "descricao": "dfgdfg",
+      "descricao": "dfgsdf",
+      "statusFinalizado": false,
+      "categoria": "Casa",
+      "prioridade": "Baixa"
+    },
+    {
+      "id": 3,
+      "descricao": "sdfgsfdg",
       "statusFinalizado": false,
       "categoria": "Estudos",
       "prioridade": "Normal"
     },
     {
-      "id": 3,
-      "descricao": "dfgdfgdfg",
-      "statusFinalizado": false,
-      "categoria": "Trabalho",
-      "prioridade": "Alta"
-    },
-    {
       "id": 4,
-      "descricao": "dsfgdfg",
+      "descricao": "dfhdfhg",
       "statusFinalizado": false,
       "categoria": "Trabalho",
       "prioridade": "Normal"
-    },
-    {
-      "id": 5,
-      "descricao": "dfgsdfgsdfg",
-      "statusFinalizado": false,
-      "categoria": "Casa",
-      "prioridade": "Alta"
-    },
-    {
-      "id": 6,
-      "descricao": "fasfdaf",
-      "statusFinalizado": false,
-      "categoria": "Casa",
-      "prioridade": "Baixa"
     }
   ]
 }
